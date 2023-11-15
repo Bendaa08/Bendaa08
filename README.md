@@ -2,5 +2,5 @@
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning ReactJS.
 - 😄 I’m 14 years old
-- 📫 How to reach me: benedikt.audy@centrum.cz / benediktaudy.eu
+- 📫 How to reach me: benedikt.audy@centrum.cz / https://benediktaudy.eu
 - 🗣 I speak Czech and English!
